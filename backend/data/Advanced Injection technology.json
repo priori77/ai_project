@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Advanced Injection technology_0000",
+    "content": "멜빈이 고안한 천계 엔진 기술의 한 종류. AIT란 Advanced Injection technology의 약어이다. 기존 엔진의 연료 분사 방식을 개량함으로 폭발력을 높이면서 소음과 진동을 억제했다. 연료를 압축시킨 뒤 실린더에 효율적으로 분사해 연비와 출력 또한 우수하다. AIT가 개발된 이후 천계의 기계공학은 더욱 혁신적인 발전을 이루었다.",
+    "metadata": {
+      "chunk_index": 0,
+      "chunk_tokens": 173,
+      "total_chunks": 1,
+      "keywords": [
+        "Advanced Injection technology"
+      ]
+    }
+  }
+]
